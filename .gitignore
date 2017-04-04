@@ -8,3 +8,8 @@
 .viminfo
 .gitconfig
 deploy/
+ansible/
+jenkins/
+vagrant/
+torrent/
+vpn/
